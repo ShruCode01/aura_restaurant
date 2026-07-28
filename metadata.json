@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Restaurant & Fine Dining",
+  "description": "High-end luxury restaurant and gourmet online food ordering platform with reservations, chef specials, interactive menu, and glassmorphism dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
